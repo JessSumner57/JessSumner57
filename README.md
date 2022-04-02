@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on new projects and am open to new ideas
 - 📫 Reach me via email. 
 
-  ! [header](https://github.com/JessSumner57/JessSumner57/blob/main/header.png)
+  <img src="https://github.com/JessSumner57/JessSumner57/blob/main/header.png alt="banner that says Jess Sumner - Enthusiastic Learner">
