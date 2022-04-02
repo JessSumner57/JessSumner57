@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on new projects and am open to new ideas
 - 📫 Reach me via email. 
 
-! (https://github.com/JessSumner57/JessSumner57/blob/main/header.png)
+  ! [header](https://github.com/JessSumner57/JessSumner57/blob/main/header.png)
