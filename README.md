@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on new projects and am open to new ideas
 - 📫 Reach me via email. 
 
-![alt_text] (/headerpng.) 
+[<img align="left" alt="Instagram" width="30px" src="IMG_PATH"/>][link]
+[link](https://github.com/JessSumner57/JessSumner57/blob/main/README.md)
