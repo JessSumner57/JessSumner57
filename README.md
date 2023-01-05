@@ -1,7 +1,7 @@
  <img src="https://github.com/JessSumner57/JessSumner57/blob/main/header.png" alt="banner that says Jess Sumner - Enthusiastic Learner">
 
-- :woman_dancing: I’m interested in growing
-- :lion:I’m currently learning a lot
+- :woman_dancing: I’m interested in Spatial Analysis 
+- :lion:I’m currently learning a time-series research
 - 💞️ I’m looking to collaborate on new projects and am open to new ideas
 
  [![Jess's github stats](https://github-readme-stats.vercel.app/api?username=JessSumner57&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
