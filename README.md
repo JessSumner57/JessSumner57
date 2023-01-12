@@ -4,5 +4,4 @@
 - :lion:I’m currently learning a time-series research
 - 💞️ I’m looking to collaborate on new projects and am open to new ideas
 
- [![Jess's github stats][![Jess's stats](https://github-readme-stats.vercel.app/api?JessSumner57=JessSumner57)](https://github.com/JessSumner57/github-readme-stats)
- 
+[![Jess's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessSumner57)](https://github.com/anuraghazra/github-readme-stats)
