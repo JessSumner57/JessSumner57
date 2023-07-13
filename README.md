@@ -1,4 +1,4 @@
 - 🐸 Data Science - BBC Analyst
 - :woman_dancing: I’m interested in Spatial Analysis 
-- :lion:I’m currently learning a time-series research
+- :lion:I’m currently refining data warehousing skills
 - 💞️ I’m looking to collaborate on new projects and am open to new ideas
